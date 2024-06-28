@@ -1,0 +1,14 @@
+{
+    "folders": [
+    {
+        "path": "."
+    }
+],
+"settings": {
+    "git.ignoreLimitWarning": true,
+    "python.defaultInterpreterPath": "path_to_your_project",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    }
+},
+}
